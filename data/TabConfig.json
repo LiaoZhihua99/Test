@@ -1,27 +1,5 @@
 {
-    "1001": {
-        "type": 1,
-        "titleName": "世界Boss",
-        "timeTxt": "开放时间：每天12:00-14:00和20:00-22:00",
-        "bgRes": "img_wanfadi1",
-        "rank": 1001,
-        "remask": "世界Boss",
-        "redPoint": [
-            34,
-            63
-        ],
-        "viewpath": "prefab/bigboss/bigBossView",
-        "activityIdList": [
-            23
-        ],
-        "openDay_min": 3,
-        "funtionId": 1049,
-        "act_pos": [
-            -141.5,
-            -728.523
-        ],
-        "finsh": 1
-    },
+    
     "1002": {
         "type": 1,
         "titleName": "商店",
