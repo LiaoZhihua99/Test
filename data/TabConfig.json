@@ -1,0 +1,553 @@
+{
+    "1001": {
+        "type": 1,
+        "titleName": "世界Boss",
+        "timeTxt": "开放时间：每天12:00-14:00和20:00-22:00",
+        "bgRes": "img_wanfadi1",
+        "rank": 1001,
+        "remask": "世界Boss",
+        "redPoint": [
+            34,
+            63
+        ],
+        "viewpath": "prefab/bigboss/bigBossView",
+        "activityIdList": [
+            23
+        ],
+        "openDay_min": 3,
+        "funtionId": 1049,
+        "act_pos": [
+            -141.5,
+            -728.523
+        ],
+        "finsh": 1
+    },
+    "1002": {
+        "type": 1,
+        "titleName": "商店",
+        "timeTxt": "开放时间：全天开放",
+        "bgRes": "img_wanfadi1",
+        "rank": 1002,
+        "remask": "商店",
+        "redPoint": [
+            59,
+            60
+        ],
+        "viewpath": "prefab/FangshiView",
+        "act_pos": [
+            162,
+            -755
+        ],
+        "finsh": 1
+    },
+    "1003": {
+        "type": 1,
+        "titleName": "竞技场",
+        "timeTxt": "开放时间：全天开放",
+        "bgRes": "img_wanfadi1",
+        "rank": 1003,
+        "remask": "竞技场",
+        "redPoint": [
+            57,
+            64
+        ],
+        "viewpath": "prefab/pk/PkView",
+        "funtionId": 1007,
+        "act_pos": [
+            -170,
+            -462
+        ],
+        "finsh": 1
+    },
+    "1004": {
+        "type": 1,
+        "titleName": "银光尖塔",
+        "bgRes": "img_wanfadi1",
+        "rank": 1004,
+        "remask": "银光尖塔",
+        "redPoint": [
+            25,
+            65,
+            62,
+            99
+        ],
+        "viewpath": "prefab/tianguan/TianGuanView",
+        "funtionId": 1008,
+        "act_pos": [
+            -48.5,
+            -57
+        ],
+        "finsh": 1,
+        "guideId": 11002
+    },
+    "1005": {
+        "type": 1,
+        "titleName": "远古矿洞",
+        "bgRes": "img_wanfadi1",
+        "rank": 1005,
+        "remask": "远古矿洞",
+        "redPoint": [
+            61,
+            124
+        ],
+        "viewpath": "prefab/mine/MineView",
+        "funtionId": 1009,
+        "act_pos": [
+            145,
+            -617
+        ],
+        "finsh": 1
+    },
+    "1006": {
+        "type": 1,
+        "titleName": "地下城",
+        "bgRes": "img_wanfadi1",
+        "rank": 1006,
+        "remask": "地下城",
+        "redPoint": [
+            78
+        ],
+        "viewpath": "prefab/underGround/underGroudMainView",
+        "funtionId": 1065,
+        "act_pos": [
+            171,
+            -479
+        ],
+        "finsh": 1
+    },
+    "1007": {
+        "type": 1,
+        "titleName": "赫拉迪克方块",
+        "bgRes": "img_wanfadi1",
+        "rank": 1007,
+        "remask": "赫拉迪克方块",
+        "redPoint": [],
+        "jumpId": 1016,
+        "funtionId": 1016,
+        "act_pos": [
+            113,
+            -170
+        ],
+        "finsh": 1
+    },
+    "1008": {
+        "type": 1,
+        "titleName": "英灵神殿",
+        "bgRes": "img_wanfadi1",
+        "rank": 1008,
+        "remask": "英灵神殿",
+        "redPoint": [
+            74,
+            97
+        ],
+        "viewpath": "prefab/bossAltas/BossAltasView",
+        "funtionId": 1054,
+        "act_pos": [
+            -141.5,
+            -190
+        ],
+        "finsh": 1,
+        "guideId": 10802
+    },
+    "1009": {
+        "type": 1,
+        "titleName": "奶牛关(经验)",
+        "bgRes": "img_wanfadi1",
+        "rank": 1009,
+        "remask": "【经验】奶牛关",
+        "redPoint": [
+            73
+        ],
+        "viewpath": "prefab/cow/cowMainView",
+        "funtionId": 1059,
+        "act_pos": [
+            -134,
+            -600
+        ],
+        "finsh": 1,
+        "guideId": 10902
+    },
+    "1010": {
+        "type": 1,
+        "titleName": "雇佣兵",
+        "bgRes": "img_wanfadi1",
+        "rank": 1010,
+        "remask": "雇佣兵",
+        "redPoint": [
+            90
+        ],
+        "viewpath": "prefab/arms/armsView",
+        "funtionId": 1039,
+        "act_pos": [
+            -205,
+            -326
+        ],
+        "finsh": 1
+    },
+    "1011": {
+        "type": 1,
+        "titleName": "巅峰竞技场",
+        "bgRes": "img_wanfadi1",
+        "rank": 1011,
+        "remask": "巅峰竞技场",
+        "redPoint": [
+            103,
+            107
+        ],
+        "viewpath": "prefab/arena/peakArenaMainView",
+        "funtionId": 1085,
+        "act_pos": [
+            145,
+            0
+        ],
+        "finsh": 1
+    },
+    "1012": {
+        "type": 1,
+        "titleName": "拍卖行",
+        "bgRes": "img_wanfadi1",
+        "rank": 1012,
+        "remask": "拍卖行",
+        "redPoint": [],
+        "viewpath": "prefab/auctionHouse/auctionHouseView",
+        "funtionId": 1108,
+        "act_pos": [
+            110,
+            -318
+        ],
+        "finsh": 1
+    },
+    "2001": {
+        "type": 2,
+        "titleName": "福利活动",
+        "timeTxt": "开放时间：活动长期开放",
+        "bgRes": "img_huodongdi1",
+        "rank": 2001,
+        "remask": "福利活动",
+        "redPoint": [
+            29,
+            22,
+            26,
+            100,
+            101,
+            108,
+            146,
+            147
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            20,
+            13,
+            17,
+            41,
+            42,
+            49,
+            60,
+            61,
+            64
+        ],
+        "openDay_min": 1,
+        "funtionId": [
+            1045,
+            1044,
+            1037,
+            1082,
+            1083,
+            1116,
+            1117,
+            1201
+        ]
+    },
+    "2003": {
+        "type": 2,
+        "titleName": "新手活动",
+        "timeTxt": "开放时间：%s",
+        "bgRes": "img_huodongdi1",
+        "rank": 2002,
+        "remask": "新手活动",
+        "redPoint": [
+            28,
+            30
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            18,
+            19
+        ],
+        "openDay_min": 1,
+        "funtionId": [
+            1046,
+            1047
+        ]
+    },
+    "2004": {
+        "type": 2,
+        "titleName": "寻宝",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_huodongdi1",
+        "rank": 2004,
+        "remask": "寻宝",
+        "redPoint": [
+            75,
+            76,
+            77
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            25,
+            26,
+            27,
+            28,
+            29
+        ],
+        "funtionId": []
+    },
+    "2005": {
+        "type": 2,
+        "titleName": "新春庆典",
+        "timeTxt": "活动时间：2023/02/07 至 2024/02/20\n商店结束时间：2024/02/21 23:59:59",
+        "bgRes": "img_xinchunqingdian_rukou",
+        "rank": 2005,
+        "remask": "新春狂欢",
+        "redPoint": [
+            87,
+            88,
+            89
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            30,
+            31,
+            33
+        ],
+        "funtionId": [
+            1067,
+            1068,
+            1070
+        ]
+    },
+    "2006": {
+        "type": 2,
+        "titleName": "限时活动",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_huodongdi1",
+        "rank": 2006,
+        "remask": "限时活动",
+        "redPoint": [
+            21,
+            91,
+            33,
+            116,
+            117
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            15,
+            16,
+            34,
+            35,
+            4,
+            12,
+            5,
+            50,
+            51
+        ],
+        "funtionId": [
+            1071,
+            1072,
+            1073,
+            1074,
+            1075,
+            1076,
+            1094,
+            1095
+        ]
+    },
+    "2007": {
+        "type": 2,
+        "titleName": "幸运鉴宝",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_huodongdi3",
+        "rank": 2007,
+        "remask": "幸运鉴宝",
+        "redPoint": [
+            92,
+            93
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            36,
+            37
+        ],
+        "funtionId": [
+            1077,
+            1078
+        ]
+    },
+    "2008": {
+        "type": 2,
+        "titleName": "全民开福袋",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_huodongdi_quanmingchixigua_rukou",
+        "rank": 2008,
+        "remask": "端午活动",
+        "redPoint": [
+            95,
+            96
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            38,
+            39,
+            40
+        ],
+        "funtionId": [
+            1079,
+            1080,
+            1081
+        ]
+    },
+    "2009": {
+        "type": 2,
+        "titleName": "好评达人",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_huodongdi6",
+        "rank": 2009,
+        "remask": "好评达人",
+        "redPoint": [
+            105
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            43
+        ],
+        "funtionId": [
+            1086
+        ],
+        "finsh": 1
+    },
+    "2010": {
+        "type": 2,
+        "titleName": "烟花庆典",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_huodongdi_guoqing",
+        "rank": 2005,
+        "remask": "烟花庆典",
+        "redPoint": [
+            112,
+            111,
+            114,
+            115,
+            119
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            46,
+            44,
+            45,
+            47,
+            48
+        ],
+        "funtionId": [
+            1088,
+            1089,
+            1090,
+            1091,
+            1092
+        ]
+    },
+    "2011": {
+        "type": 2,
+        "titleName": "猩红祭典",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_xinghongjidian_rukou",
+        "rank": 2006,
+        "remask": "猩红祭典",
+        "redPoint": [
+            132,
+            133
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            58,
+            59
+        ],
+        "funtionId": [
+            1113,
+            1114
+        ]
+    },
+    "2012": {
+        "type": 2,
+        "titleName": "幸运狂欢",
+        "timeTxt": "活动时间：%s结束",
+        "bgRes": "img_xingyunkuanghuan_rukou",
+        "rank": 2006,
+        "remask": "幸运狂欢",
+        "redPoint": [
+            33
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            6,
+            7,
+            8,
+            9,
+            69
+        ],
+        "funtionId": []
+    },
+    "2013": {
+        "type": 2,
+        "titleName": "永恒石板",
+        "timeTxt": "本次开放时间：2月9日-2月16日 23:59:59\n商店结束时间：2月17日 23:59:59",
+        "bgRes": "img_yonghengshiban_rukou",
+        "rank": 2007,
+        "remask": "永恒石板",
+        "redPoint": [
+            159,
+            160
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            65,
+            66,
+            70,
+            67,
+            68
+        ],
+        "funtionId": [
+            1202,
+            1203,
+            1204,
+            1205,
+            1206
+        ]
+    },
+    "2014": {
+        "type": 2,
+        "titleName": "宗匠之锁",
+        "timeTxt": "本次开放时间：2月22日-2月28日 23:59:59\n商店结束时间：2月29日 23:59:59",
+        "bgRes": "img_zongjiangzhisuo_rukou",
+        "rank": 2008,
+        "remask": "宗匠之锁",
+        "redPoint": [
+            162,
+            163
+        ],
+        "viewpath": "prefab/ActivityMainView",
+        "activityIdList": [
+            71,
+            72,
+            73,
+            74
+        ],
+        "funtionId": [
+            1202,
+            1203,
+            1204,
+            1205,
+            1206
+        ]
+    }
+}

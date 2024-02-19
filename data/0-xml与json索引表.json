@@ -1,0 +1,1166 @@
+{
+ "B.001boss图鉴远征任务.xml": {
+  "json_name": "base_boss_card_task.json",
+  "sha_256": "b76ecc05505bc113f5d87ec08bff9a92daeed5b649326cd67194467b13dfaf92"
+ },
+ "B.002boss图鉴远征任务随机.xml": {
+  "json_name": "base_boss_card_task_random.json",
+  "sha_256": "107ec9e5501fd84ebaec0c825556484402e4bb15785dfb9140eac04f4fa3513b"
+ },
+ "B.Boss图鉴卡召唤池配置.xml": {
+  "json_name": "base_boss_card_summon_pool.json",
+  "sha_256": "bde162e89f644cd9a935d6587f6e03864a7cdc188ddcd2e9d1a9d6fce06eb775"
+ },
+ "B.Boss图鉴卡召唤配置.xml": {
+  "json_name": "base_boss_card_summon.json",
+  "sha_256": "95fe631616a30b9b1726cd2c266b99051ecf87e0470d49f777a7a34d7aeb90d3"
+ },
+ "B.boss图鉴卡.xml": {
+  "json_name": "BossCardConfig.json",
+  "sha_256": "cb09f7d00b64679ccb467452e437829c12e7fc530a4dea9f5666c9e8844e23c2"
+ },
+ "B.boss图鉴推荐出战.xml": {
+  "json_name": "RecWarConfig.json",
+  "sha_256": "68a15ed8156cedef81f6956b6549a53641bc229c97537c46f635b184129bbcad"
+ },
+ "B.boss图鉴羁绊.xml": {
+  "json_name": "BossBookConfig.json",
+  "sha_256": "b3ffbff233910012bbc67feb0db65614a2f9b154ee23579b5556bc82ffe86035"
+ },
+ "B.不朽冠冕.xml": {
+  "json_name": "base_buxiu.json",
+  "sha_256": "8de15c4ddd473c4f291fe3674262c00863116cd4b9f7483240856140cafb1648"
+ },
+ "B.变强系统配置.xml": {
+  "json_name": "bestrongernConfig.json",
+  "sha_256": "aafccb3d5d9da6269ddfc8e9f4ecf98d658400f47ac1765ea4971edcc5243e62"
+ },
+ "B.背包.xml": {
+  "json_name": "BagConfig.json",
+  "sha_256": "f52dd62c0b96a8de251f29f291f8c4486773388f7a4219d0b86af5d31fc37384"
+ },
+ "B.背景故事文本.xml": {
+  "json_name": "BackGroundStory.json",
+  "sha_256": "5194121c5a054490368980dd2beee528dcb9a5965a5143a9eb628bf6e5cc7130"
+ },
+ "C.仓库.xml": {
+  "json_name": "storageConfig.json",
+  "sha_256": "bbab1be3a67651eebdaf427617c421c2a22b9bc2eca4d88f42d26bb206d32327"
+ },
+ "C.传奇宝石.xml": {
+  "json_name": "gemstone.json",
+  "sha_256": "f2081e3fb228ea508d88f60cf9f9cebbe195cb00a279a11f9205eda7e53fa34f"
+ },
+ "C.传奇宝石栏位.xml": {
+  "json_name": "gemstonepos.json",
+  "sha_256": "6e83441d93ec689227522e77c5d912a1c03713d3e7a791bf880a4c556afe7ba7"
+ },
+ "C.传奇宝石突破.xml": {
+  "json_name": "gemstoneStar.json",
+  "sha_256": "f98c3797cc6d212a68b43debdfda908fc94f955054683552cb7bbadfb09a3fb3"
+ },
+ "C.传奇霸业任务.xml": {
+  "json_name": "legendaryThinkTask.json",
+  "sha_256": "6e4c750bd3ebdafe28b15ce9e4dff24a231bb470bf0602d92ca1d04a67b5fe79"
+ },
+ "C.传奇霸业奖励.xml": {
+  "json_name": "legendaryThinkReward.json",
+  "sha_256": "dc992221454e2f3d479ae814d46ca91fb06835a0fbaeb50b3e6f54d4f673c535"
+ },
+ "C.充值.xml": {
+  "json_name": "chongZhiConfig.json",
+  "sha_256": "b04478a313215a270918571a16ebe870aa82584ec093ad1daf13b2660142d80a"
+ },
+ "C.充值宝箱关联配置.xml": {
+  "json_name": "rechargeBoxsRelevance.json",
+  "sha_256": "a81ad5d2d158d0388336096620267d0d67b66495bcfe3f84a84b460fdfcb5b4a"
+ },
+ "C.出战孔位.xml": {
+  "json_name": "WarQuotaConfig.json",
+  "sha_256": "8df17f9ca0b51f62ca7b0ca26594c51eef3c4ab32ec63d54e5767c13f76b0651"
+ },
+ "C.常量表.xml": {
+  "json_name": "DefaultConfig.json",
+  "sha_256": "1461d4792a3033387dee53dade6df5c995193b01faf0d9f9b5e1a5471c535c8c"
+ },
+ "C.成就称号.xml": {
+  "json_name": "AchievementTitleConfig.json",
+  "sha_256": "f355cb8e5f802b66ed82cd4ba34b753f23ff7296b981f15d15aa5fc812a04b1f"
+ },
+ "C.成就类型.xml": {
+  "json_name": "AchievementTypeConfig.json",
+  "sha_256": "2946df78e6d6a917cc6253dac224e4e597b496ffce42f1e04895a8793874f62f"
+ },
+ "C.成就页签.xml": {
+  "json_name": "AchievementTabConfig.json",
+  "sha_256": "91bf1a3fce65bc231ff938fc8a590f51e7e21c24401d3f1b5a7656e371616f00"
+ },
+ "C.成长基金.xml": {
+  "json_name": "growFundConfig.json",
+  "sha_256": "366760ea5b6cca8ea12e3ba616988c8e00c640d95905ae23e862ea685bf2336c"
+ },
+ "C.抽奖.xml": {
+  "json_name": "lotteryConfig.json",
+  "sha_256": "2cb7e9266f06d8345c1a7ae9b2124fb94405227b89409d87e45ecf7d8423a1f2"
+ },
+ "C.淬炼消耗配置.xml": {
+  "json_name": "cuilianconfig.json",
+  "sha_256": "a341bf4ada17c07360966773759ba2b9c41faeac5c97b46f6245608c3b0e43f7"
+ },
+ "C.词缀生成规则.xml": {
+  "json_name": "CizhuiRuleConfig.json",
+  "sha_256": "0d6821755f0bb2c71d935ecd6965752e6d3195c62826e6c6a64f61bb6531b07c"
+ },
+ "C.超值礼包内容配置.xml": {
+  "json_name": "passGiftsConfig.json",
+  "sha_256": "1b71c0ecc72fa408d69d787ff371a1567bea3e34515aeff0c4a540da3023ed4d"
+ },
+ "C.超值礼包类型配置.xml": {
+  "json_name": "passGiftsTypeConfig.json",
+  "sha_256": "9a44c1850bac2a4faf2b7d26be6dae98a98213df0829e1e56cb05f8270a651b3"
+ },
+ "C.重复任务配置.xml": {
+  "json_name": "base_repeat_task.json",
+  "sha_256": "d08208e1628d68cb70655d9a00c9c7502d64efc2cfac0f6a1e838e8a616cc983"
+ },
+ "C.错误码文字表.xml": {
+  "json_name": "base_err_code.json",
+  "sha_256": "bda87bc368b60b135ffd78ac28481d638bbf22fc116cb3caab77c9381f58fd8f"
+ },
+ "D.地下城事件.xml": {
+  "json_name": "UndergroundEventConfig.json",
+  "sha_256": "7393f923007c4ac3cefce7e9ad0b95f8f677e1ceb710bf7cb090188a4af44fb1"
+ },
+ "D.地下城副本.xml": {
+  "json_name": "UndergroundConfig.json",
+  "sha_256": "d0e09c190d43e48f74bfea09453959bf1707f3063ff46675e507c2774b353d2c"
+ },
+ "D.地下城副本按钮.xml": {
+  "json_name": "UndergroundBtnConfig.json",
+  "sha_256": "54b90174cfb9d6c3b38dda3a1958b4cc427a5c7e1343221c131512db3eb429d6"
+ },
+ "D.地下城完成度奖励配置.xml": {
+  "json_name": "UndergroundProgressBarConfig.json",
+  "sha_256": "a2f78db0d6bf426a5897ece5077e8f868b127caf6b1533cbfcef400da876acc3"
+ },
+ "D.地下城常量.xml": {
+  "json_name": "UndergroundDefaultConfig.json",
+  "sha_256": "9fcef8445f3e88a4dc9e19b7343ff2b142928c87f7beabb5e8ad6acbf03ec460"
+ },
+ "D.地下城按钮事件.xml": {
+  "json_name": "UndergroundBtnEventConfig.json",
+  "sha_256": "e74312c05466da011537251d889fffc58b36a1280c9c514fc31284b2f892d243"
+ },
+ "D.地下城机制.xml": {
+  "json_name": "UndergroundbuffConfig.json",
+  "sha_256": "3110d81d3c654a0b3eb28865471b4eec865a214360ebc8d21543dc3335280ffd"
+ },
+ "D.地图挂机推荐.xml": {
+  "json_name": "MaprecommendConfig.json",
+  "sha_256": "c59ceea2d603a3e82a16785bdcb295e1047406e661f9e5f59eb4b9366714a9cb"
+ },
+ "D.地图配置.xml": {
+  "json_name": "MapConfig.json",
+  "sha_256": "0daa4181493d95d2acaf44afc0ae96dfcf46851614adadfd808777d889483d62"
+ },
+ "D.地图难度.xml": {
+  "json_name": "MapLevelConfig.json",
+  "sha_256": "69400041f9a8fe1d497a0eed5d5f24c2aaeae0a06029c9107d803da128994935"
+ },
+ "D.地牢事件.xml": {
+  "json_name": "base_dungeon_event.json",
+  "sha_256": "c34c053fff91c20223ab7e35d51e5d5527ceb3ecb84b489548b55c1d9fd9d5b7"
+ },
+ "D.地牢关卡.xml": {
+  "json_name": "base_dungeon_stage.json",
+  "sha_256": "95800c4ab90934de21a8eb14154721c465121a0161073d4207e6c2b550de5517"
+ },
+ "D.地牢配置.xml": {
+  "json_name": "base_dungeon.json",
+  "sha_256": "17ab6afde171a0b7ef46573b8205b2417f2786111f0810c2145c4cbb23976bb8"
+ },
+ "D.地狱地图掉落限制.xml": {
+  "json_name": "base_hell_map_drop_limit.json",
+  "sha_256": "ed6000fb2bcb5d0e53dc099e33ecefd7164b014d8654def1d1e6828c98b8eff4"
+ },
+ "D.地狱强化大师.xml": {
+  "json_name": "base_hell_strength_master.json",
+  "sha_256": "aa5b078a2c9ea04222c8654273350b0a69daa2ce42fc26acfc30aa6919e40b46"
+ },
+ "D.地狱强化配置.xml": {
+  "json_name": "base_hell_strength.json",
+  "sha_256": "cc9bca479ea1ef0ce4fdf9160f9d1eebd502213ee053dd0621568b6355d4f7f4"
+ },
+ "D.地狱试炼任务.xml": {
+  "json_name": "base_hell_trial_task.json",
+  "sha_256": "a888844b58f47fdaa66d924cad9b06883139b50c745559a2599f60f19fc0f2b3"
+ },
+ "D.地狱试炼节点.xml": {
+  "json_name": "base_hell_trial_node.json",
+  "sha_256": "af3454f5ba2c026f1cbc0fcf5767d25924a88e742e7fb39d605e7ddd238c21a4"
+ },
+ "D.地狱转生配置.xml": {
+  "json_name": "base_hell_reborn.json",
+  "sha_256": "784f225298b42d7a7ad6a12f100dbf6fee3df579777ed9f14143d3a0244a28af"
+ },
+ "D.巅峰属性配置.xml": {
+  "json_name": "peakednessAttr.json",
+  "sha_256": "ab60c8f00188351dba21b952fedae7edc58886990b51d357fdc6c35220473186"
+ },
+ "D.巅峰强化大师.xml": {
+  "json_name": "base_df_strength_master.json",
+  "sha_256": "dfab2171f8d9e0bd3bbf4d40d270f4f2ddcc20a24018cf36b2f602992f818f77"
+ },
+ "D.巅峰强化精炼.xml": {
+  "json_name": "base_df_strength_refine.json",
+  "sha_256": "d92079d2605c14e7884fdaf53df01643493e6fa4acc6725d7143294348290831"
+ },
+ "D.巅峰强化配置.xml": {
+  "json_name": "base_df_strength.json",
+  "sha_256": "7ef61b992940ba6e9ef5ff69f73660b8dea144629377351a53006167c2275edb"
+ },
+ "D.巅峰竞技场时间配置.xml": {
+  "json_name": "base_dfjjc_time.json",
+  "sha_256": "ab129c4663d6b9d98ccfc69df609d3532375eb29dcd1c1d3d9f7c05753cc01a8"
+ },
+ "D.巅峰竞技场积分赛机器人配置.xml": {
+  "json_name": "base_dfjjc_robot.json",
+  "sha_256": "cb910e838724655e9372cdcc0d4d6dd5d420b55974ebad4dfd3949b9f0c36a92"
+ },
+ "D.巅峰竞技场积分赛配置.xml": {
+  "json_name": "base_dfjjc_score_race_settle.json",
+  "sha_256": "506c11f9643fc73968058de74c5c44e4b3d631d415f9b0f0ac65f881a3915cd7"
+ },
+ "D.巅峰竞技场等级段配置.xml": {
+  "json_name": "base_dfjjc_lv_range.json",
+  "sha_256": "4e400455d34ee8bb6993023a116d2630b50afe62d6cd105b605a2388fab5b547"
+ },
+ "D.巅峰竞技场血战结算配置.xml": {
+  "json_name": "base_dfjjc_xz_settle.json",
+  "sha_256": "d6226816b6f19960b21294fb62acad71ae81a65ed055e978650624c9184adc6c"
+ },
+ "D.巅峰竞技场购买次数配置.xml": {
+  "json_name": "base_dfjjc_buy_times.json",
+  "sha_256": "223b1b7f9c085c283c755973d8b1ae90c8f3efc87aadc60544c34901f4c6a44d"
+ },
+ "D.巅峰等级升级.xml": {
+  "json_name": "peakednessUpgrade.json",
+  "sha_256": "e63f8b5dbed14096baac956023f9aecee025a57f1646b2f0dcb6fd44b7eb965c"
+ },
+ "D.弹幕内容配置.xml": {
+  "json_name": "BarrageConfig.json",
+  "sha_256": "1f3ec0ad263041b6893f9211345ca85f0273c9c55ff18a7f24e8df94a8fabf55"
+ },
+ "D.打点.xml": {
+  "json_name": "dadianConfig.json",
+  "sha_256": "af972290ee35a2c69b2d14917e3ffdb2c09dafeccbba400061ed993e9c949906"
+ },
+ "D.登陆有礼.xml": {
+  "json_name": "loginGiftConfig.json",
+  "sha_256": "4da1db788866db38776e3ea017ddb638fd23577bf13fddca0d3119c6a11b42ab"
+ },
+ "D.登陆有礼活动.xml": {
+  "json_name": "base_login_gift_activity.json",
+  "sha_256": "b1a0fd40ed8155e8264a2629552bf5ee1a7908509e399540aedaba3926be9727"
+ },
+ "D.端午付费礼包.xml": {
+  "json_name": "base_dragon_boat_festival_gift.json",
+  "sha_256": "bdf94f86cd07bab26466d8c754161842871acc592dbe4749c9cb64f9f299c849"
+ },
+ "D.端午任务.xml": {
+  "json_name": "base_dragon_boat_festival_task.json",
+  "sha_256": "2ccdc06e002300923438791cc72c8e1fa0b3eb4c6007c7c9a767fa3b5e67dcbe"
+ },
+ "F.文字翻译表.xml": {
+  "json_name": "Word.json",
+  "sha_256": "f31be185a9131a83be0c1e7e9c85cde2b99bc0c44cf6c1d67ce16aa638663ee9"
+ },
+ "F.服务器配置.xml": {
+  "json_name": "server.json",
+  "sha_256": "3d6f2278095fe296776689caf4b275f38cbc1519a802193ce5c8def2ca8cb21b"
+ },
+ "F.符文配置.xml": {
+  "json_name": "runeconfig.json",
+  "sha_256": "6cb1f6f027ffe2458a12c276988e0daaf004a4639116471df10fc4b05bb20da1"
+ },
+ "F.飞翼培养配置.xml": {
+  "json_name": "WingLevelUpConfig.json",
+  "sha_256": "32e53d2b8b2a676e8957034ca5be89e956fee65b7d63cc992b0c899260a1e7e4"
+ },
+ "F.飞翼注灵属性配置.xml": {
+  "json_name": "base_wing_zhuling.json",
+  "sha_256": "1863fd1c25c83c47efddefa08682746e4f887cbb27eb3c42e2563d3b97215250"
+ },
+ "F.飞翼注灵次数配置.xml": {
+  "json_name": "base_wing_zhuling_times.json",
+  "sha_256": "b7df298baca940cffcca958d1ff016a7b61310deab52142d89dd8154d426a9e6"
+ },
+ "F.飞翼装备合成配置.xml": {
+  "json_name": "WingComposeConfig.json",
+  "sha_256": "6923c2bd2c09cbd7e605457c8fd6d688c289d30eae620d75ee502960798e8501"
+ },
+ "F.飞翼装备幸运属性库.xml": {
+  "json_name": "WingLuckyAttrConfig.json",
+  "sha_256": "0e84cbb1b2aa6a0594b8be528922c192bc650e7404286c1e33734fc559512076"
+ },
+ "F.飞翼装备配置.xml": {
+  "json_name": "WingEquipConfig.json",
+  "sha_256": "ccb14dd9542651ba7f462472655a9bbb3e2e02fd9108ddbb6b61f1089f30d4db"
+ },
+ "G-功能开启配置.xml": {
+  "json_name": "functionConfig.json",
+  "sha_256": "8ac1aeed2c0b25f709681b79342bf05ecdf325b98060956fa11be095c49f0e5c"
+ },
+ "G.gm命令配置.xml": {
+  "json_name": "Gm.json",
+  "sha_256": "5f90fe03d8a4aaa665ff1d6cbd4d2a4c2df5ccc147c0070ac1f0f624f08c49de"
+ },
+ "G.公告.xml": {
+  "json_name": "Announcement.json",
+  "sha_256": "f8102d33f144fb462a4d82e6b807be4b49fb5c13affa7f2824d5a27a1686e73c"
+ },
+ "G.广播.xml": {
+  "json_name": "BroadcastConfig.json",
+  "sha_256": "cf4747298b27375f8c8ea7684c6307cb5e2e1059aa5c37153376d16b2258cfab"
+ },
+ "G.怪物配置.xml": {
+  "json_name": "MonsterConfig.json",
+  "sha_256": "f818c2f4438b1c5fa4f7d4cd16d117ed24d9a0e0539e8cbcdfe44fae8f55643e"
+ },
+ "G.观影券.xml": {
+  "json_name": "MovieTicketConfig.json",
+  "sha_256": "ecdb21df3fb4b06c41d345f2aa8c5d21998d6925623923caf9f0203d105f16d1"
+ },
+ "G.观影阁累积奖励.xml": {
+  "json_name": "MovieAwardConfig.json",
+  "sha_256": "4da1a694e1da3e993254490415bc6730dca86aa7e03529365215bed64f8d314a"
+ },
+ "G.规则.xml": {
+  "json_name": "RuleConfig.json",
+  "sha_256": "9de2897bed35ffe44df7cbd96f304ca0decc4d7db529ca17465730015ee3c520"
+ },
+ "G.雇佣兵升级配置.xml": {
+  "json_name": "ArmsUpdateConfig.json",
+  "sha_256": "4b216131bde1897afb8f522916f1fd152e6b01bb620b71c82cdbfad57a2162cd"
+ },
+ "G.雇佣兵参数配置.xml": {
+  "json_name": "ArmsConfig.json",
+  "sha_256": "d6a35929a3f3bb2c16dad7ccc11bba2656946b9c9b8d1f1591c1364043dcbd68"
+ },
+ "G.雇佣兵突破配置.xml": {
+  "json_name": "ArmsBreakConfig.json",
+  "sha_256": "2e94e7b3bc32f44500ff94c47278fa3b5a1bc94682e969e4b72d60e2e5538e01"
+ },
+ "G.雇佣兵进阶配置.xml": {
+  "json_name": "ArmsAdvanceConfig.json",
+  "sha_256": "f13e58ac9eb29c068719a781167fcd04e2cd27961c1f990cb52e0e126638b31e"
+ },
+ "G.雇佣兵酒馆参数配置.xml": {
+  "json_name": "ArmsShopConfig.json",
+  "sha_256": "bdc8587481f225c7e5bcfcf30be7e83442bb3b8f19e0abb62f0212235c0e2326"
+ },
+ "G.雇佣兵酒馆奖池商品配置.xml": {
+  "json_name": "base_arms_commodity.json",
+  "sha_256": "454830866390a32138259599d2d3a574c9ea605d8dc4a097eeb70b2c1bdeafa3"
+ },
+ "H.合成标签配置.xml": {
+  "json_name": "composeTabConfig.json",
+  "sha_256": "9fe73a0983bd08b4fe73e2cd0677d275dca4b444e2132f179b54b20f0d88ed1a"
+ },
+ "H.合成配置.xml": {
+  "json_name": "composeConfig.json",
+  "sha_256": "0b01bbcf53c1ebe96486ef68949da9e78b3b379f4a076e276e36f34f2f2198af"
+ },
+ "H.回收.xml": {
+  "json_name": "shopRecoverConfig.json",
+  "sha_256": "d9e6bf23828d45501979b2b9880e133a04d6cf1b24ba63502916d327b17f5c13"
+ },
+ "H.护身符图鉴配置.xml": {
+  "json_name": "base_talisman_illustrated_book.json",
+  "sha_256": "c66b80d9118e9ab22da9ab661c171031e9bc0225b021647872307fa8e30e882a"
+ },
+ "H.护身符宝箱商城.xml": {
+  "json_name": "base_talisman_box_shop.json",
+  "sha_256": "f576b361d2fcbbd5f6e761466f1ca27ea4ddf2a12d5bc66af4671c29ccdfcfc5"
+ },
+ "H.护身符宝箱奖池配置.xml": {
+  "json_name": "base_talisman_box_lottery.json",
+  "sha_256": "34460a4f0b7bedf25aea6ac2de4ba457127ea8c1c8b52d2eab9a932adb1909ce"
+ },
+ "H.护身符宝箱积分配置.xml": {
+  "json_name": "base_talisman_box_point.json",
+  "sha_256": "6b9184c8538f689904628c6b9788b22481b38df8cde9f234a272dfda840194b8"
+ },
+ "H.护身符宝箱达标.xml": {
+  "json_name": "base_talisman_box_target.json",
+  "sha_256": "1c4a694f0a3618de03bdbf11883a897d2fc42a7b9fff3a5113793586bedc9e29"
+ },
+ "H.护身符宝箱配置.xml": {
+  "json_name": "base_talisman_box.json",
+  "sha_256": "1ead0431682a30db333abfaf88aef0a4c5470131ecea31e8d235e0664f30371e"
+ },
+ "H.护身符星级基础百分比属性.xml": {
+  "json_name": "base_talisman_star_base_attr_rate.json",
+  "sha_256": "29bb7bb0d37b8b4a4c6a948728a5c1248d66a7570688e3c4236674761be36d1f"
+ },
+ "H.护身符星级高级属性.xml": {
+  "json_name": "base_talisman_star_adv_attr.json",
+  "sha_256": "b8dc2a6f967dba179120d4f3fd40e714fd241b7e56a7fa6d76599d6c2c18348b"
+ },
+ "H.护身符等级配置.xml": {
+  "json_name": "base_talisman_level.json",
+  "sha_256": "f40af5aa0bc0d0aaf745a7d4667167b7ef706895f793384d85c2cf452cb5bd7e"
+ },
+ "H.护身符配置.xml": {
+  "json_name": "base_talisman.json",
+  "sha_256": "ca81ac5231894733ebc3ad59f8ab275945ffcb027504f39180d115343a171e6a"
+ },
+ "H.护身符阶数技能配置.xml": {
+  "json_name": "base_talisman_tier_skill.json",
+  "sha_256": "2bc066b53960a513a7a67ae1084a963685fd36a5d9d3fae7d3c10fd7e2d7ac09"
+ },
+ "H.活动.xml": {
+  "json_name": "activityConfig.json",
+  "sha_256": "d9f92b8cbf6c5e2744571eb5f486857705cf801956a92902a129cbd957fbf4b2"
+ },
+ "H.活动时间配置.xml": {
+  "json_name": "activitytimeConfig.json",
+  "sha_256": "e64ce4dcb5e3470ca6a71bc29debafe9d9cfc39b914e92ca4792e9831205b253"
+ },
+ "H.活动玩法标签配置.xml": {
+  "json_name": "TabConfig.json",
+  "sha_256": "bf456c8679318a961a336fb919a35f25f7dcd7ae8d81ff76c8b5516428320f60"
+ },
+ "H.红包配置.xml": {
+  "json_name": "redPaperConfig.json",
+  "sha_256": "bc1ac2009512ba56c8fdd0087d22509ee55d4d335a02c80e6cf9951b5f246294"
+ },
+ "H.红点规则配置.xml": {
+  "json_name": "base_red_point_rule.json",
+  "sha_256": "2008e4a92e58bfab822a33e86582cc5315be85bb64a3e88df1253d373d55922d"
+ },
+ "H.魂器类型配置.xml": {
+  "json_name": "base_hunqi_pos.json",
+  "sha_256": "5708871ff4f661221dd2d3e0e928d5307bd33b89c277634017d45f3ae0b8121d"
+ },
+ "H.魂器装备配置.xml": {
+  "json_name": "base_hunqi.json",
+  "sha_256": "5b3887670cbf6379b7e5c881d1d45aa613374fc19ae8f421939a9afcd0b2cd8d"
+ },
+ "J.基金.xml": {
+  "json_name": "fundConfig.json",
+  "sha_256": "0a1a291aa59bc3c7fc3e2f368651512fdcac7509c1b56461d4f214c671e68b48"
+ },
+ "J.基金配置.xml": {
+  "json_name": "base_fund.json",
+  "sha_256": "ed921868f31f94328192b22aefe20628729e57564da474147fd199f16387bc8a"
+ },
+ "J.境界.xml": {
+  "json_name": "JingJieConfig.json",
+  "sha_256": "9d957c5d3deca6e1e6f36ce84aca479472ce63398cef9098e1f44a3e2dbab50f"
+ },
+ "J.急速猎杀.xml": {
+  "json_name": "MonsterHunterConfig.json",
+  "sha_256": "2b3d5ad9db5e13a32b5b5551f5efaf3ad264fa5a231b0e7f6271f8fba9a23903"
+ },
+ "J.技能buff配置.xml": {
+  "json_name": "buffConfig.json",
+  "sha_256": "25c8a65a6cd1088989b698d910ce307f47601488b19f021e85ef9dfb7e013637"
+ },
+ "J.技能初始化配置.xml": {
+  "json_name": "SkillinitConfig.json",
+  "sha_256": "a31f1578598b2d27ef7b19397a90c0fc45a34a5c740f5473e2914738dd7a51dd"
+ },
+ "J.技能刻印配置.xml": {
+  "json_name": "SkillStampConfig.json",
+  "sha_256": "f21e7598956a389e384fdae4735231911e82e3eff6e4406fd396d181d0a4dbc9"
+ },
+ "J.技能状态表.xml": {
+  "json_name": "SkillBuffConfig.json",
+  "sha_256": "f8ec74964b4d81cb6f4738f514ebfbfc43e885eda1c06785a0df6e52b40e657b"
+ },
+ "J.技能皮肤.xml": {
+  "json_name": "skinConfig.json",
+  "sha_256": "933be67555737286e37fbe86a2e29f8da5c5143c24c261ac7f4d710e854aee56"
+ },
+ "J.技能配置.xml": {
+  "json_name": "SkillConfig.json",
+  "sha_256": "e0f8bfb4b07b6fd3d202ccfb8e2431d817bc2c292caa844613e62f488e299da0"
+ },
+ "J.激活码.xml": {
+  "json_name": "activityCodeConfig.json",
+  "sha_256": "fc66df6802d9f4be837d440f09f3e2be01da99282eca77f4dc6a65e5fdc64c14"
+ },
+ "J.爵位.xml": {
+  "json_name": "DukeConfig.json",
+  "sha_256": "1b17c4934b63594f14a0fb78b762150a14b5e94219020c249a5c030f400f4713"
+ },
+ "J.爵位特权.xml": {
+  "json_name": "DukePrivilegeConfig.json",
+  "sha_256": "1fa33ce33ac8b7ec48103d53bc8e7e1817aca9f188134ca8702a4f25bd220f50"
+ },
+ "J.竞技场机器人配置.xml": {
+  "json_name": "arenaRobotConfig.json",
+  "sha_256": "dad9368f5495d6a45e01228a57ae6e10a9e158a8aaeecd38ac2cbcf08eece8e4"
+ },
+ "J.竞技场每周次数奖励.xml": {
+  "json_name": "arenaWeekRewardConfig.json",
+  "sha_256": "017bcdb00d4070c0b771525cc34835b99f31eb0bb54d4d15645725b68019d1fc"
+ },
+ "J.竞技场每日排名奖励.xml": {
+  "json_name": "arenaRankRewardConfig.json",
+  "sha_256": "09262ae6dcb69d7ddbb1abf19a47cb8443bc3793b1e09c3ea77155752f1b8675"
+ },
+ "J.竞技场配置.xml": {
+  "json_name": "arenaConfig.json",
+  "sha_256": "c03544d824563b7ab9fb40815125571cf53270eb80fc796bcdb381758e120469"
+ },
+ "J.精华商人.xml": {
+  "json_name": "CreamTraderConfig.json",
+  "sha_256": "7a1ed403a40d2c212ab638fb21326f5db84dfbc8736871657d425f4f83d53e4f"
+ },
+ "J.节日幸运狂欢大奖配置.xml": {
+  "json_name": "base_jrxykh_big.json",
+  "sha_256": "bfaefc4adf651e55d0e058f3675e04a00447c6dfa7d774a6cf0456cd61caacee"
+ },
+ "J.节日幸运狂欢奖池配置.xml": {
+  "json_name": "base_jrxykh.json",
+  "sha_256": "5c77db34ff56ef97da2f6657bbfef0c4c15826f30f7e6555b2a2e7c90ddfe2fe"
+ },
+ "J.节日战令任务.xml": {
+  "json_name": "base_jrzl_task.json",
+  "sha_256": "083c0e1973343d363c8167941606a9656a893f08f5af9ee751b69842be8f1e18"
+ },
+ "J.节日战令全服任务.xml": {
+  "json_name": "base_jrzl_all_task.json",
+  "sha_256": "58c951ba8351cdc7240e601e6ebdfa5edcb8f46d139d05b26ba4af05d8c2c871"
+ },
+ "J.节日战令通行证奖励.xml": {
+  "json_name": "base_jrzl_pass_reward.json",
+  "sha_256": "7d278ec1f610fcd543258687846ca1d8418357e65cda82ba38ec62a6d98e6eb4"
+ },
+ "J.节日特惠礼包.xml": {
+  "json_name": "base_activity_gift.json",
+  "sha_256": "e19775c2153031681b94e802348f5b35539676e0a890411594de096131fa4b50"
+ },
+ "J.角色框皮肤.xml": {
+  "json_name": "characterFrameConfig.json",
+  "sha_256": "b17461c443848b54e160120eba91d121f38b9fc3f40d217b42f377e486b930c3"
+ },
+ "J.角色配置.xml": {
+  "json_name": "HeroConfig.json",
+  "sha_256": "169fb2d8ce2739bff8bd78cc5a163d1167a048421db654cc0e30b53aa795fe3c"
+ },
+ "J.金币.xml": {
+  "json_name": "goldsConfig.json",
+  "sha_256": "29dfb2e7ea354b5ae9f864c44b451db597dfca67b8998c96d51080d886636edc"
+ },
+ "J.集字商店.xml": {
+  "json_name": "collectActivityConfig.json",
+  "sha_256": "9df3daeccae7d0b9e2e2e1cefd35d2ea779de7a85f4391d70536aac56e45659a"
+ },
+ "K.凯恩密令任务.xml": {
+  "json_name": "marfaOrderConfig.json",
+  "sha_256": "8d0e73ee507756924bdad6ad433e6424f288fd5ecff97216e9336cb0873fb2e7"
+ },
+ "K.凯恩密令目标奖励.xml": {
+  "json_name": "marfaGoalConfig.json",
+  "sha_256": "2c4596f143edd107619f98ee25c456cad95a38dbf8a40075a0b9802fd19df81d"
+ },
+ "K.矿点信息推送.xml": {
+  "json_name": "MineInformationConfig.json",
+  "sha_256": "ebe3aeadfc5272d1d207d0c68b17582d08d2918b14e9a0c4ecbcef1db1b3ffa0"
+ },
+ "K.矿点数量.xml": {
+  "json_name": "MineNumConfig.json",
+  "sha_256": "103dd9cb6259e6ef77c436f412c43f5681bdb6e9c2068ca77c1dd432ed4b7462"
+ },
+ "K.矿点配置.xml": {
+  "json_name": "MineConfig.json",
+  "sha_256": "7ee9ed77cc5785c52b4fc3c0e865840b25a426d7321cd8e5697287797235cdd7"
+ },
+ "K.跨服服务器关联配置.xml": {
+  "json_name": "base_angel_racing_server.json",
+  "sha_256": "d1a7402a5ac7f0bd2443d2acc553d6adfb19aaaca7754272d944a25ddebc22f9"
+ },
+ "K.采矿信息配置.xml": {
+  "json_name": "MiningInfoConfig.json",
+  "sha_256": "818d67b794dd21424e6624800346e81104e7d83ba7a80b8ef10395998d720ffa"
+ },
+ "L.历史累充配置.xml": {
+  "json_name": "base_cumulative_recharge.json",
+  "sha_256": "4af96329054534fceb393ec2f3192f17fcbed043af16f1b1a54d824f7396c197"
+ },
+ "L.礼包.xml": {
+  "json_name": "giftConfig.json",
+  "sha_256": "bf7981c6b0ccf1dbaa03fbe3bb2563c7ca333780e0b714caafe1bc45906695f3"
+ },
+ "L.裂变受邀有礼任务.xml": {
+  "json_name": "base_be_invited_task.json",
+  "sha_256": "68bcba282e4c6c872dc1c9703825ba3f5474f6d98603aef8324e33c1603f9680"
+ },
+ "L.裂变邀请数量配置.xml": {
+  "json_name": "base_invite_num.json",
+  "sha_256": "a07e182ee7dd3ef92d433c6af7665accacedeb11f582ba37ca04dac863ac0cdc"
+ },
+ "L.裂变邀请有礼任务.xml": {
+  "json_name": "base_invite_task.json",
+  "sha_256": "6f55f4c6b1d78485dce7c871b5b0a637c5916d9fa404bc50a5491762c8593e78"
+ },
+ "L.连充有礼.xml": {
+  "json_name": "base_continuous_recharge.json",
+  "sha_256": "c2d02acf5f8c78863dbf77f90c357b2063dd4ef87879475faf5516cbfa739667"
+ },
+ "M.模拟属性.xml": {
+  "json_name": "base_simulate_attr.json",
+  "sha_256": "73ea9ed6ffc77ccbe1bd9adea485bd4ae25250371aa0d8df801bfc0088cf007b"
+ },
+ "M.每日任务宝箱.xml": {
+  "json_name": "base_daily_task_box.json",
+  "sha_256": "c44594b74aedc2b0503ce4d3ead91fe4739f6e89ffffa2225aff603767c83148"
+ },
+ "M.每日任务配置.xml": {
+  "json_name": "base_daily_task.json",
+  "sha_256": "61222e7f4f4182e3b66360d274b6cf2b90d593e7e5395ef305f8865a3bbfc42f"
+ },
+ "M.每日好礼.xml": {
+  "json_name": "chargegiftConfig.json",
+  "sha_256": "626f2c820ea2a0f2f1b1da3efaf34d5e96495acbd3ec6c62232bbf360c1ffc2a"
+ },
+ "M.每日特惠.xml": {
+  "json_name": "DailySaleConfig.json",
+  "sha_256": "1a8520514620bc2f74def31d17e486d1be9f7dcef6950d0478d7a052e5e4605e"
+ },
+ "M.每日签到.xml": {
+  "json_name": "SignBoardConfig.json",
+  "sha_256": "cfa0082c7454103d38a00ffb25c21112397965fda2ef732944a9bcae01093f8f"
+ },
+ "M.每日累充返利.xml": {
+  "json_name": "base_daily_recharge_back.json",
+  "sha_256": "cc42c4e95fb29e7e18440f3b1b6950888394979ebc3e89f60e2d0fbe0fd265ac"
+ },
+ "M.每日累充返利池.xml": {
+  "json_name": "base_daily_recharge_back_pool.json",
+  "sha_256": "7050946068fe22c826262d020020ef876bdc54e4611a2bcca9f9da4eead1a0d9"
+ },
+ "M.每日限时礼包.xml": {
+  "json_name": "DailyGiftConfig.json",
+  "sha_256": "7613b2a2e5e0b5a2e79da6a746a9db70b028e571d9eb34e048bea13194539890"
+ },
+ "M.魔法属性表.xml": {
+  "json_name": "MagicNameConfig.json",
+  "sha_256": "97ae5815783fe3b425cfaca6603a2a9a6e0f25e0e4295eacf7512ac11f0461cc"
+ },
+ "N.奶牛关.xml": {
+  "json_name": "CowExpConfig.json",
+  "sha_256": "60acd65df8ba8ce1928f5dc232c0cf7b16c8754391db246d1fd719e70818ef12"
+ },
+ "P.拍卖行商品配置.xml": {
+  "json_name": "base_auction_house_goods.json",
+  "sha_256": "c36dbe77a2822aab22b0d910a3f5b5388431b6b1ae0995532303506496ca7a9d"
+ },
+ "P.拍卖行自动上架配置.xml": {
+  "json_name": "base_auction_house_auto_sell.json",
+  "sha_256": "c3a88259adecc01bf050e23998e667db04af86a3f2aaed844886d7c31f54234c"
+ },
+ "Q.七天目标.xml": {
+  "json_name": "MarfaKingConfig.json",
+  "sha_256": "709174c25848f401210b6e07db47fad637de70f13d5eaf36b9536e5f016496c9"
+ },
+ "Q.七天目标进度奖励.xml": {
+  "json_name": "MarfaKingProConfig.json",
+  "sha_256": "7760b5cac497e447c82df0eb44ff68f818cfe1d037287ae4db850c0e8450117f"
+ },
+ "Q.七日登陆.xml": {
+  "json_name": "sevenDayLoginConfig.json",
+  "sha_256": "8c6283644db3ea190ed57195d2d3cbb9d6b145f1fa068aae889eebd5828f83c1"
+ },
+ "Q.强化大师.xml": {
+  "json_name": "IntensifyBuffConfig.json",
+  "sha_256": "325cc78d535ad7ae57ec92512a3bf22c764c80f10fd7db64641ca06f5ee2ae4b"
+ },
+ "Q.强化精炼.xml": {
+  "json_name": "IntensifyrefineConfig.json",
+  "sha_256": "db83efc7bc8c0f880b2c1c2fd79204cdc34e47eee5468cd1ee5199337f3beafe"
+ },
+ "Q.强化配置.xml": {
+  "json_name": "IntensifyConfig.json",
+  "sha_256": "5d71c9ae3fcf9f5e376781880eee26c5e7305a2882f70c25810250dc22cbf047"
+ },
+ "R.任务宝箱配置.xml": {
+  "json_name": "task_boxConfig.json",
+  "sha_256": "07aace1aaefe851479dc99a24850e8f4c6e4afac86204420e6712108806beb45"
+ },
+ "R.任务配置.xml": {
+  "json_name": "taskConfig.json",
+  "sha_256": "cd8b3b6b80674b3bf6110614d8d6a2e44c9e81fb680623ff927ef84ff4a68c44"
+ },
+ "R.熔炉配置.xml": {
+  "json_name": "base_furnace.json",
+  "sha_256": "5a2c7efbcfab0e001862c7165536c758c240d7b6f97a5f400c80521c88fcd2e9"
+ },
+ "S.世界Boss任务配置.xml": {
+  "json_name": "worldbosstaskConfig.json",
+  "sha_256": "7d3b8db9a3c27632300aa84280267bce5fd2ae2feb83e8bf791dbf099a97e77d"
+ },
+ "S.世界Boss奖励配置.xml": {
+  "json_name": "worldbossawardConfig.json",
+  "sha_256": "c9463524500a4d1dafd432c318334bc5b012beb930c2f794141142db6dea968d"
+ },
+ "S.世界Boss掉血配置.xml": {
+  "json_name": "worldbosshurtConfig.json",
+  "sha_256": "c0f00ae8d5be9b2bf9374c2362c87b85308c1a2a721bbe032d20fea49673c64a"
+ },
+ "S.双倍活动配置.xml": {
+  "json_name": "doubleDropConfig.json",
+  "sha_256": "b2e474253a4c1b56941b8dad8859446de5e4e4963f4dc9dddbfbfea4ce3a7589"
+ },
+ "S.商店.xml": {
+  "json_name": "shopConfig.json",
+  "sha_256": "7a8e25c0a4dc393e60b5356858a69c5ee0f3f9df7b76a5875039579aded447bc"
+ },
+ "S.商店货物.xml": {
+  "json_name": "shopAllConfig.json",
+  "sha_256": "079f9207ef3d5463222164d8408cf3f7e5bb58d40a71e0c368ae0b9742efef35"
+ },
+ "S.圣诞大盗.xml": {
+  "json_name": "Christmasrobber.json",
+  "sha_256": "883c101af72104b724b871c0ab901bed6ba3045a5765d50498107262c93d0996"
+ },
+ "S.市集.xml": {
+  "json_name": "fangShopConfig.json",
+  "sha_256": "80e9b75cbef2f065aacd17ba0baff2dd920bda34f49f689f9d43d0a5ecf436cf"
+ },
+ "S.市集珍宝商品折扣配置.xml": {
+  "json_name": "base_shiji_zhenbao_discount.json",
+  "sha_256": "78e18cfa180b9b329391d6d5207129ae56b8769a63e2f3235a5fcef357f50f2c"
+ },
+ "S.市集珍宝商品配置.xml": {
+  "json_name": "base_shiji_zhenbao.json",
+  "sha_256": "4046d3883c2d0769764345820e2928a8b3ef5bb3de775fe88249f7cb1e312279"
+ },
+ "S.手机唤醒推送.xml": {
+  "json_name": "DailySaleConfig.json",
+  "sha_256": "f86d5fafc62e5463eb4885d9e602a96d9a4c9a61b0c54309455a065631bb8b56"
+ },
+ "S.数据校验.xml": {
+  "json_name": "checkConfig.json",
+  "sha_256": "f02fed56db3f932ad3a951c406bf63010bbce6fc312876cf0dd6ad42a661b8ae"
+ },
+ "S.深渊天赋配置.xml": {
+  "json_name": "base_abyss_talent.json",
+  "sha_256": "c4168acbda8c3dfcd7f949865578b2c34bd2a7ce8e2dbb2b7db0bcf713c60204"
+ },
+ "S.深渊等级升级.xml": {
+  "json_name": "base_abyss_level_upgrade.json",
+  "sha_256": "a761a13e89861bf1b90e9d97430a6696432683783d48f912191993fd691af9b4"
+ },
+ "S.深渊装备属性库.xml": {
+  "json_name": "base_abyss_equip_attr.json",
+  "sha_256": "4d3ca6cfe83fe7003b330c48fa18dbf94df9e25f55cd9ff3344d988c1c470f8c"
+ },
+ "S.深渊装备进化.xml": {
+  "json_name": "base_abyss_equip_evolve.json",
+  "sha_256": "430c580c01f50fa65a7d52d740e878ba803bd5085e412419b96b7d32a306d712"
+ },
+ "S.深渊装备进化概率提升.xml": {
+  "json_name": "base_abyss_equip_evolve_prob_up.json",
+  "sha_256": "12676659230c0e8f71bcd8f1ecd5b2bd81a3bbc95179b3d818e33886160b7922"
+ },
+ "S.神兵.xml": {
+  "json_name": "shenbingConfig.json",
+  "sha_256": "ac98205c5abfe67b9947e92b16623f923c3a13a086382bf3d4e97d7524e28c6b"
+ },
+ "S.神兵乔汉娜的守御.xml": {
+  "json_name": "qiaohannadeshouyuConfig.json",
+  "sha_256": "3d6077ed09403dede7ffefd2aaf4fd34ad6a7d61204af683f5cc1537c73b6531"
+ },
+ "S.神兵嗜魂法杖.xml": {
+  "json_name": "shihunfazhangConfig.json",
+  "sha_256": "a508bfb195ef8da463a7c33536d3a47b2f1d6ae384b578d59fb045cd32b3dda4"
+ },
+ "S.神兵宝石.xml": {
+  "json_name": "shenbingGemAllConfig.json",
+  "sha_256": "d40c5c2fdfeb3b09fee0b9285d055c727bfb9022241c61941cc61f6d22f0fd33"
+ },
+ "S.神兵布尔凯索.xml": {
+  "json_name": "chixuemojianConfig.json",
+  "sha_256": "f27bb1efd6b4484ad0f916d282c61b29e445e95ad3ab968283b3ecb56cf3e60b"
+ },
+ "S.神兵希梅斯特的掠夺.xml": {
+  "json_name": "mingyunzhirenConfig.json",
+  "sha_256": "bd274578deca6fc798921443906c4f1abe71b45e14b2964d922fa6104c347a60"
+ },
+ "S.神兵德鲁伊的恢复.xml": {
+  "json_name": "deluyidehuifuConfig.json",
+  "sha_256": "5953ff9820a69c425be704c27ceeda0e05bde71b59984679902dfb644aa4f25a"
+ },
+ "S.神兵技能.xml": {
+  "json_name": "shenbingskillAllConfig.json",
+  "sha_256": "b2df9affadc8c4f86bcd90be9885f94ed08ecbe0198cc1a2c54b8d1690962eac"
+ },
+ "S.神兵灵魂收割者.xml": {
+  "json_name": "linghunshougezheConfig.json",
+  "sha_256": "7d2b168e8f9fe59a20b36d4ad11249f492e617517f6bbd005f3e964445f0bf13"
+ },
+ "S.神赐属性.xml": {
+  "json_name": "shenciConfig.json",
+  "sha_256": "e285f2e56841233869aba21b3a2735e93c71a4851ffca37a7ed16217e8d4375e"
+ },
+ "S.赛季通行证.xml": {
+  "json_name": "passCheckConfig.json",
+  "sha_256": "3629fa8fa7443a93496a87b694569b70c34002594d9f949409925cb3b532e03d"
+ },
+ "S.赛季通行证奖励.xml": {
+  "json_name": "passCheckRewardConfig.json",
+  "sha_256": "42a02672150a808394e5aed0528951b66ad92a1c80bfe2156e15d73c979958fa"
+ },
+ "S.赛季通行证挑战任务参数配置.xml": {
+  "json_name": "passCheckTaskConfig.json",
+  "sha_256": "d8e27166871596db731f74aae9f07aac4e08947e7985595d8aa202c12f99f5ae"
+ },
+ "S.赛季通行证挑战任务库配置.xml": {
+  "json_name": "passCheckConfig.json",
+  "sha_256": "ca0abbd4d73eb58d7e34403e9c79fe4194ffbad6c83ac5f3563041258c075a1b"
+ },
+ "S.首充奖励.xml": {
+  "json_name": "base_first_recharge_gift.json",
+  "sha_256": "f7ca1f5e78edc5fd6949b026e88923b886c00a7cf7c27ca8802f9369e5994b72"
+ },
+ "T.图鉴.xml": {
+  "json_name": "IllustratedBooksConfig.json",
+  "sha_256": "f91172e3dc755bd7e6cabbcf23eeb1f22f5335dc602bebc7a1aa475ba11e1243"
+ },
+ "T.图鉴属性显示.xml": {
+  "json_name": "IllustratedBooksshowConfig.json",
+  "sha_256": "09afb776a59a922bd9f9dc8bc2622ab918b38ce6253f7733119dbe6c90ab8602"
+ },
+ "T.图鉴强化.xml": {
+  "json_name": "IllustratedBooksenhanceConfig.json",
+  "sha_256": "ecfafa8221f6a54146c252c5bc88dfd7ed1931ca2da920ccfd0035a1fbda74cf"
+ },
+ "T.天使竞速.xml": {
+  "json_name": "ElkRun.json",
+  "sha_256": "aa91256c12455b0fdf081a690f9ab97e32d0064b4ed673e5b2488c69631124b8"
+ },
+ "T.天使竞速商店.xml": {
+  "json_name": "activityShop.json",
+  "sha_256": "d067900f94c9ebc26e7ef1a07e8305465155fab6718bca72fd543953d0e10c51"
+ },
+ "T.天使竞速排行奖励.xml": {
+  "json_name": "activityRank.json",
+  "sha_256": "bc6efccf5394687b6a07c24dbd081b7adcca9d23924e78e7e74881459cf0ec9d"
+ },
+ "T.套装配置.xml": {
+  "json_name": "SuitConfig.json",
+  "sha_256": "82a4650e955aea9076a54b16aca657db2ac527a381b629842679e5e1b4d6a33b"
+ },
+ "T.托管特权.xml": {
+  "json_name": "robotvipConfig.json",
+  "sha_256": "897b264e483b80ee43fe28e5eed31a76168a46de759c40ce9cec80c33a292187"
+ },
+ "T.特戒.xml": {
+  "json_name": "specialRingConfig.json",
+  "sha_256": "a4b969817600bb0f530388a3dc793bfeadb75205232c538fae264d3673602675"
+ },
+ "T.特戒特效.xml": {
+  "json_name": "specialRingEffectConfig.json",
+  "sha_256": "1f5264113e35f06c3d487c42c778e2be80d3aeff9a0d5e895d2b98b1c7c89435"
+ },
+ "T.特效配置.xml": {
+  "json_name": "SkilleffectConfig.json",
+  "sha_256": "2776505adc8f1710d6863658b3000c9254cba64a357dc69348c950833e5d6482"
+ },
+ "T.特权卡参数配置.xml": {
+  "json_name": "PrivilegeConfig.json",
+  "sha_256": "1d9c7012a5eacbb8a9927949b5fb89d9207970268129ad6a17895026886175b8"
+ },
+ "T.铁匠.xml": {
+  "json_name": "makeequipment.json",
+  "sha_256": "0c9ecf684a5f07b591e522f8cea9ff7684e9831067c8e62b901e41f03f492abb"
+ },
+ "T.铁匠刷新.xml": {
+  "json_name": "makeequipmentcost.json",
+  "sha_256": "003fe34b07e5a7da8996d138fb31f87223ae1912383a94941241fffcb66443cc"
+ },
+ "V.VIP福利配置.xml": {
+  "json_name": "base_vip_welfare.json",
+  "sha_256": "5abeb807c518832bdfe6c1830891625417d878b808e7d41ba680b86a5044dedc"
+ },
+ "W.001玩家账户.xml": {
+  "json_name": "base_login_map.json",
+  "sha_256": "8dd5046ef1dc45f21463aa7c7e2e3f6ca72213ed8c5f80ad8e538d34f8aad28d"
+ },
+ "W.物品配置.xml": {
+  "json_name": "iTemsConfig.json",
+  "sha_256": "1b04262bfae02e8e83511cbd2c453d9a5292ead2977c001d6df74bda88ce7ee0"
+ },
+ "W.纹章合成配置.xml": {
+  "json_name": "base_emblem_compose.json",
+  "sha_256": "b444e4706b5abb700bfe7324460d3414a96906360f5d8b2a90914584e44963c7"
+ },
+ "W.纹章套装属性.xml": {
+  "json_name": "base_emblem_suit_attr.json",
+  "sha_256": "17e218ef68e25e2f73706ce37bdf4fb98bf64c34c932716537f793279ca1969a"
+ },
+ "W.纹章栏位强化共鸣.xml": {
+  "json_name": "base_emblem_bar_pos_strength_resonance.json",
+  "sha_256": "bc11eb27f170e2a5760e8287cd8964a6ac8b4141d197178645a236d64ae1c361"
+ },
+ "W.纹章栏位强化配置.xml": {
+  "json_name": "base_emblem_bar_pos_strength.json",
+  "sha_256": "858a6c03e833c65e99009849b33dff90a02bb69054832cb9bc7b3b7b533a1880"
+ },
+ "W.纹章栏位配置.xml": {
+  "json_name": "base_emblem_bar_pos.json",
+  "sha_256": "64de19551ee04c13af9b992983db7d1a5fb26e6dd05ab7b597852634e5c32ed0"
+ },
+ "W.纹章烙印配置.xml": {
+  "json_name": "base_emblem_brand.json",
+  "sha_256": "d11b239a74f0412c2755265ee31094c5475b6c0e341a8e571610c7737d89afb1"
+ },
+ "W.纹章迸发属性.xml": {
+  "json_name": "base_emblem_burst_attr.json",
+  "sha_256": "200d23146588b48879ea2c4301a0b6af563d8fc686cf47b45758d37b42948b4f"
+ },
+ "W.纹章配置.xml": {
+  "json_name": "base_emblem.json",
+  "sha_256": "ebf0f4a652031ee1a5ad02ba8bb8fd62d00c70be790e5b18f325ffa6e985d7d5"
+ },
+ "W.纹章锻造选项配置.xml": {
+  "json_name": "base_emblem_forge.json",
+  "sha_256": "2d2629ccdc8c573b9e45da63c2e6dacdd945d938f0d2cd9db23bd3fadbf80f6f"
+ },
+ "W.纹章锻造随机库配置.xml": {
+  "json_name": "base_emblem_forge_random_lib.json",
+  "sha_256": "92fc49de5fbaed6a4e76d567680c6193813e4ef54c467e9b4c7ba97793fdef75"
+ },
+ "X.姓名表.xml": {
+  "json_name": "PlayerNameConfig.json",
+  "sha_256": "3a04739603f0d0dc547f1024116a7c9f3dd6739328d3924fec52570e9c7dff27"
+ },
+ "X.寻宝付费礼包.xml": {
+  "json_name": "lotterygiftConfig.json",
+  "sha_256": "4582c4afbf014528b2f3fa5e479d2bb5af4473119a8ea3b568fbd6898bf80d61"
+ },
+ "X.寻宝兑换.xml": {
+  "json_name": "lotteryExchangeConfig.json",
+  "sha_256": "5d96b5e411590c3bdc0313938353965e047c88df3e6488747a2b2510cf377ab1"
+ },
+ "X.寻宝周期配置.xml": {
+  "json_name": "lotteryperiodConfig.json",
+  "sha_256": "dc588c914fe02469407695495ce45db95959f284cf268422658f6f714fc43aee"
+ },
+ "X.寻宝奖励库配置.xml": {
+  "json_name": "lotteryAwardConfig.json",
+  "sha_256": "40fcd0d2dfcfc8ffb1c06f51978e97ad07f045177d5aecf58047f60e3fbd639e"
+ },
+ "X.寻宝奖励预览.xml": {
+  "json_name": "lotteryPreAwardConfig.json",
+  "sha_256": "a399e88125643960a13f58ff82f2bfe3db75628e66edf8b170b5bbd68fac63a0"
+ },
+ "X.寻宝排行奖励.xml": {
+  "json_name": "lotterRankConfig.json",
+  "sha_256": "347206ba8f4ed9340c2b5d8b6a5b5adbd88898b021b3bf2dd0e11009d4b1707e"
+ },
+ "X.寻宝次数回馈.xml": {
+  "json_name": "lotteryCountConfig.json",
+  "sha_256": "f803aa61859329541388faed16571a375895a5143be178534df26f6248cfb264"
+ },
+ "X.寻宝登陆回馈.xml": {
+  "json_name": "lotteryloginConfig.json",
+  "sha_256": "404c0c93557a5d5ab0aca8412f7ad62d9fbb5eca85f2a9927e4818a04906cff2"
+ },
+ "X.幸运狂欢大奖配置.xml": {
+  "json_name": "carnivalSurpriceConfig.json",
+  "sha_256": "38e21eb3a7af5b9720ca246a37dacf8468b0def4eeb831502f041a3ec082b025"
+ },
+ "X.幸运狂欢奖池配置.xml": {
+  "json_name": "carnivalConfig.json",
+  "sha_256": "d970e224ac8762799e1fd608b956a7e19b5c787691969e2524a4f3f3e44a6f0f"
+ },
+ "X.幸运狂欢抽奖目标配置.xml": {
+  "json_name": "carnivalRewardConfig.json",
+  "sha_256": "348ce468b792e0fa64eabea4ae9a095a138d4a7d01f1fc9159976b33224b6b8d"
+ },
+ "X.幸运鉴宝.xml": {
+  "json_name": "base_lucky_treasure_appraisal.json",
+  "sha_256": "521652a93c2bb62f904678e03e78d6a912eaacef277edd5943afde9c478b81c8"
+ },
+ "X.幸运鉴宝奖励库.xml": {
+  "json_name": "base_lucky_treasure_appraisal_reward.json",
+  "sha_256": "16fa86f2fee3b57f39354c1d9ec0fc04cb3761bd6c4b0542180521d2837bc008"
+ },
+ "X.幸运鉴宝奖励预览.xml": {
+  "json_name": "lucky_treasure_reward_look.json",
+  "sha_256": "677e1c256e1080acf31d34ed2d8d15c24dd21bc55a2b7b202077de274bfbf967"
+ },
+ "X.新手攻略.xml": {
+  "json_name": "StrategyConfig.json",
+  "sha_256": "df0cfa6ae036b77f048141c5327b445413daef33c21b7d9b4b798de9803a7f81"
+ },
+ "X.新手攻略星宿.xml": {
+  "json_name": "StrategyXingXiuConfig.json",
+  "sha_256": "50d9054b243ad934dbb419b1efaa03fb9123ccf1707d9b1dba7fd5cca3ed55c1"
+ },
+ "X.新春狂欢之充值回馈.xml": {
+  "json_name": "springRechargeConfig.json",
+  "sha_256": "8adb7d0d48d58743b316121995399c336633283532dddbbfd7a78d614e0d6b99"
+ },
+ "X.新春狂欢之活动商店.xml": {
+  "json_name": "springShopConfig.json",
+  "sha_256": "91bf905e1f21170e0d6ded281ef1c988847d3007d79db821bb108e9141481a42"
+ },
+ "X.新春狂欢之登陆回馈.xml": {
+  "json_name": "springLoginConfig.json",
+  "sha_256": "57da8b7a06ac6b1dd2d23869ab7c6697522ca6987dc5cbaa2f4ff32798503a63"
+ },
+ "X.新春狂欢参数配置.xml": {
+  "json_name": " springConfig.json",
+  "sha_256": "a2ff146d5d4efdc0dc24fce999b64b106cf9dd86aad78226c33bd0973cf87e51"
+ },
+ "X.星宿职业配置.xml": {
+  "json_name": "starProfessionConfig.json",
+  "sha_256": "ba0f4188414abff2f58cdeb3e87d758d8d43d07e4ca7a115d0d81fdd30dfd834"
+ },
+ "X.星宿能力配置.xml": {
+  "json_name": "starAbilityConfig.json",
+  "sha_256": "e81cf96b1e3b0be26ba90f27a9af9934a894932f7bfd6a849769b7417ff6dcac"
+ },
+ "X.星宿连锁.xml": {
+  "json_name": "starChainConfig.json",
+  "sha_256": "858226ba8dd8accf0eb5ab37cd14919aed29060b30ecd9218d30a28b0d554452"
+ },
+ "X.星盘配置.xml": {
+  "json_name": "astrolabeConfig.json",
+  "sha_256": "cb9028c4be033a8d7559dd06b0f97d62ffb65eb6a2371e0ada86b5d0988e3381"
+ },
+ "X.星级大师.xml": {
+  "json_name": "base_star_master.json",
+  "sha_256": "1cb76f73fc1206015496e4ac0f2cb6561155d78bf5aad3e2802a0a63f46fd1ff"
+ },
+ "X.星辰兑换配置.xml": {
+  "json_name": "starExchangeConfig.json",
+  "sha_256": "353dad2438a8f1ff26c06ac486591eb1c3cd804f3722e3289068f40ec5700d18"
+ },
+ "X.星辰等级配置.xml": {
+  "json_name": "starLevelConfig.json",
+  "sha_256": "1a413133be50a4926280648ff30892ca53d24e44d8cf3ec33f3a0a828fa572f4"
+ },
+ "X.洗练消耗配置.xml": {
+  "json_name": "Xilianexpendconfig.json",
+  "sha_256": "4e1bac907f6d74ebaccd374bf11c4b1d18a922fbd6819aa062cc4519ecb1ef15"
+ },
+ "X.洗练词缀星级配置.xml": {
+  "json_name": "CizhuistarConfig.json",
+  "sha_256": "d664b2a472cf5d27feda5102b745bb9efbaf6fc0d692e19e4422aa2a48a9a2fa"
+ },
+ "X.洗练词缀配置.xml": {
+  "json_name": "CizhuiConfig.json",
+  "sha_256": "3ec9ae4761b4fa001ac772efa52ffdf2ca5c512b13739d802ef3d203860a9280"
+ },
+ "X.高级献祭配置.xml": {
+  "json_name": "Gaojixianjiconfig.json",
+  "sha_256": "1696474740a2037b5408b0a7f6338edc73b4e8ec9cc4a848026a8986e677bf92"
+ },
+ "Y.永恒石板付费礼包.xml": {
+  "json_name": "base_yhsb_gift.json",
+  "sha_256": "05cb363cc2131af8e617d89ee7b5096d9422f2b0f13354b9150733c181768bf3"
+ },
+ "Y.永恒石板兑换.xml": {
+  "json_name": "base_yhsb_exchange.json",
+  "sha_256": "e5fef2ec3f9141b73f0ba245f1e9e523ec00eb585355cc0a57cae626f977df96"
+ },
+ "Y.永恒石板挑战.xml": {
+  "json_name": "base_yhsb_challenge.json",
+  "sha_256": "394544ca399ee9b64d2c184f9c05afb2bea5d7b9a028c09879c1cb7d8e9333bb"
+ },
+ "Y.永恒石板排行榜配置.xml": {
+  "json_name": "base_yhsb_rank.json",
+  "sha_256": "52b8d24e49ebb2e254591b4971728d83463bd9c99c6e561a43a6e2a25a097358"
+ },
+ "Y.药店.xml": {
+  "json_name": "yaoShopConfig.json",
+  "sha_256": "17e9d3bd0e3ce34eef1ae6e5e33da76825fe7125f7daf94b63a060f847b06df8"
+ },
+ "Y.迎新豪礼任务配置.xml": {
+  "json_name": "base_newbie_gift_task.json",
+  "sha_256": "b24dd2a0fe997e0ea63e193d613f2be9c182a8dc84744af25dc73d84125464b1"
+ },
+ "Y.邮件配置.xml": {
+  "json_name": "mailConfig.json",
+  "sha_256": "bd979c2788f5c354482305a90eb89e755477a34bf8899546feda82081bb5be42"
+ },
+ "Y.银光尖塔.xml": {
+  "json_name": "towerConfig.json",
+  "sha_256": "1a086b272d5b509f61bb639898b61fef902febd7ba8eeb7aa02e1c3d56034682"
+ },
+ "Y.银光尖塔挑战.xml": {
+  "json_name": "towerChallengeConfig.json",
+  "sha_256": "3f51471cabf3d1c61c169aa8c689d98202efb04afcbbc8db9d0c1a6e5d8894cc"
+ },
+ "Y.银光尖塔挑战排名奖励.xml": {
+  "json_name": "towerRankConfig.json",
+  "sha_256": "595f6130917b7b621ef362ee77d3920c217460e53634ab54e2e7869fb0a8c3d6"
+ },
+ "Y.银光新秀任务.xml": {
+  "json_name": "base_tower_rising_star_task.json",
+  "sha_256": "f5ce4d2e4ae23fb223dc46007a91309226f0181b8bcbe2b2039ce4981eb62af5"
+ },
+ "Y.银光新秀排名奖励.xml": {
+  "json_name": "base_tower_rising_star_rank_reward.json",
+  "sha_256": "c5b3f76b97e2cafea486c63ac1af177d454be11968b607ad12df7dc3c31ef62f"
+ },
+ "Y_引导配置.xml": {
+  "json_name": "guideConfig.json",
+  "sha_256": "7d0f2faf48a5731e08e86bb8f48b91e78cb1b9daf8d66f82a87e9b7b9397be12"
+ },
+ "Z.在线抽奖奖池配置.xml": {
+  "json_name": "online_prize_pool.json",
+  "sha_256": "1edf6c1bb68d3160df47f932b1036778ef0417c2d90ace5038ae5d42aee570cb"
+ },
+ "Z.在线抽奖时长配置.xml": {
+  "json_name": "online_duration.json",
+  "sha_256": "b56f3842dd1d7dcc1c00fb6e8e5a7145468cfc56c0c39fff9b13511c53c430a8"
+ },
+ "Z.宗匠之锁挑战.xml": {
+  "json_name": "base_zjzs_challenge.json",
+  "sha_256": "a4ae27c1a5da7c2072d2b7d08d37b2f0eb60203c1dab0f2c8964476536143f78"
+ },
+ "Z.宗匠之锁排行榜配置.xml": {
+  "json_name": "base_zjzs_rank.json",
+  "sha_256": "6d98584f0079075ff603fb388d7a9331a39cebfcaf03895031000f6633e71ebd"
+ },
+ "Z.装备tip配置表.xml": {
+  "json_name": "EquipmentTipConfig.json",
+  "sha_256": "27556516e3a15de20b85c15cdce5512530e3351732f09a582931ec7f31440bce"
+ },
+ "Z.装备掉落集合.xml": {
+  "json_name": "EquipGatherConfig.json",
+  "sha_256": "4c486d6796312405c08512f2c260449fe6413e3659ef96682bfbbc2b19bf78f0"
+ },
+ "Z.装备配置.xml": {
+  "json_name": "EquipConfig.json",
+  "sha_256": "6aebc9be89cb9aabfe390520d19baffc9085acae0a32a2fe0f9667d60f5021e0"
+ },
+ "Z.资源表.xml": {
+  "json_name": "ResourceConfig.json",
+  "sha_256": "7df633665000b2f9c4b4cacc2d8eaad8101a1de5566d9af989b27301df7b69d1"
+ },
+ "Z.转生配置.xml": {
+  "json_name": "RebirthConfig.json",
+  "sha_256": "d0a13345d0a6121057618011206c408e672523eb076ecd94d7bafc4a5e5495a0"
+ },
+ "d.掉落加成.xml": {
+  "json_name": "DropConfig.json",
+  "sha_256": "3fda876d8fe19169c9e5c4ba9859cc45ad12e353f2a32ab0c4fc366efe1265ec"
+ },
+ "k.凯恩之书.xml": {
+  "json_name": "KaienBookConfig.json",
+  "sha_256": "7789836dd2fd89c7b2aad1df5459eb85b25ad8c5e4a6d4bcc73fbaed99aa7f9e"
+ },
+ "k.凯恩之书剧情.xml": {
+  "json_name": "KaienBookDescConfig.json",
+  "sha_256": "adb6f6a459f419b563d8e8f6703bff02c5e58ae8e52521b133448ff1848806d0"
+ }
+}

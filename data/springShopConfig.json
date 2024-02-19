@@ -1,0 +1,374 @@
+{
+    "1": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I69001": 1
+            }
+        ],
+        "note": "传奇英灵碎片自选宝箱",
+        "exchange_cost": [
+            {
+                "I62005": 500
+            }
+        ]
+    },
+    "2": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I69002": 1
+            }
+        ],
+        "note": "炽热灰烬宝箱",
+        "exchange_cost": [
+            {
+                "I62005": 1000
+            }
+        ],
+        "exchange_num": 10
+    },
+    "3": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I60003": 1
+            }
+        ],
+        "note": "未鉴定的稀有纹章",
+        "exchange_cost": [
+            {
+                "I62005": 5000
+            }
+        ],
+        "exchange_num": 1
+    },
+    "4": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I60002": 1
+            }
+        ],
+        "note": "未鉴定的魔法纹章",
+        "exchange_cost": [
+            {
+                "I62005": 1500
+            }
+        ],
+        "exchange_num": 5
+    },
+    "5": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I60001": 1
+            }
+        ],
+        "note": "未鉴定的普通纹章",
+        "exchange_cost": [
+            {
+                "I62005": 250
+            }
+        ],
+        "exchange_num": 10
+    },
+    "6": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3061": 1
+            }
+        ],
+        "note": "献祭石",
+        "exchange_cost": [
+            {
+                "I62005": 250
+            }
+        ]
+    },
+    "7": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3910": 1
+            }
+        ],
+        "note": "丛林之魂",
+        "exchange_cost": [
+            {
+                "I62005": 125
+            }
+        ]
+    },
+    "8": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3909": 1
+            }
+        ],
+        "note": "丛林精魄",
+        "exchange_cost": [
+            {
+                "I62005": 5
+            }
+        ]
+    },
+    "9": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3924": 1
+            }
+        ],
+        "note": "血岩碎片",
+        "exchange_cost": [
+            {
+                "I62005": 1
+            }
+        ]
+    },
+    "10": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3925": 1
+            }
+        ],
+        "note": "炽焰结晶",
+        "exchange_cost": [
+            {
+                "I62005": 100
+            }
+        ]
+    },
+    "11": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3001": 1
+            }
+        ],
+        "note": "洗练石",
+        "exchange_cost": [
+            {
+                "I62005": 10
+            }
+        ]
+    },
+    "12": {
+        "shop_id": 1,
+        "profession": 0,
+        "item": [
+            {
+                "I3903": 1
+            }
+        ],
+        "note": "淬炼石",
+        "exchange_cost": [
+            {
+                "I62005": 10
+            }
+        ]
+    },
+    "101": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I60009": 1
+            }
+        ],
+        "note": "永恒纹章残片宝箱",
+        "exchange_cost": [
+            {
+                "I62006": 3000
+            }
+        ],
+        "exchange_num": 2
+    },
+    "102": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I60010": 1
+            }
+        ],
+        "note": "传奇纹章残片宝箱",
+        "exchange_cost": [
+            {
+                "I62006": 1000
+            }
+        ],
+        "exchange_num": 2
+    },
+    "103": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I9049": 1
+            }
+        ],
+        "note": "稀有魂器自选箱Ⅰ",
+        "exchange_cost": [
+            {
+                "I62006": 960
+            }
+        ],
+        "discount": 80
+    },
+    "104": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I9054": 1
+            }
+        ],
+        "note": "稀有魂器自选箱Ⅱ",
+        "exchange_cost": [
+            {
+                "I62006": 2400
+            }
+        ],
+        "discount": 80
+    },
+    "105": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I9047": 1
+            }
+        ],
+        "note": "魂器自选宝箱Ⅰ",
+        "exchange_cost": [
+            {
+                "I62006": 200
+            }
+        ]
+    },
+    "106": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I9052": 1
+            }
+        ],
+        "note": "魂器自选宝箱Ⅱ",
+        "exchange_cost": [
+            {
+                "I62006": 500
+            }
+        ]
+    },
+    "107": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I3095": 1
+            }
+        ],
+        "note": "稀有注灵宝箱",
+        "exchange_cost": [
+            {
+                "I62006": 50
+            }
+        ],
+        "exchange_num": 15
+    },
+    "108": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I8000": 1
+            }
+        ],
+        "note": "重塑石",
+        "exchange_cost": [
+            {
+                "I62006": 5
+            }
+        ],
+        "discount": 50
+    },
+    "109": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I3097": 1
+            }
+        ],
+        "note": "进化宝石",
+        "exchange_cost": [
+            {
+                "I62006": 20
+            }
+        ]
+    },
+    "110": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I69003": 1
+            }
+        ],
+        "note": "灵力结晶宝箱",
+        "exchange_cost": [
+            {
+                "I62006": 2500
+            }
+        ],
+        "exchange_num": 2
+    },
+    "111": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I9136": 1
+            }
+        ],
+        "note": "巅峰直升丹",
+        "exchange_cost": [
+            {
+                "I62006": 50
+            }
+        ],
+        "exchange_num": 50
+    },
+    "112": {
+        "shop_id": 2,
+        "profession": 0,
+        "item": [
+            {
+                "I62005": 50
+            }
+        ],
+        "note": "鞭炮",
+        "exchange_cost": [
+            {
+                "I62006": 1
+            }
+        ]
+    }
+}

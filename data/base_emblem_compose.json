@@ -1,0 +1,261 @@
+{
+    "101": {
+        "sub_type": 1,
+        "name": "秘银纹章 通用型",
+        "result_list": [
+            2001
+        ],
+        "material_list": [
+            1001
+        ],
+        "num": 7,
+        "cost_res": [
+            {
+                "1": 10000
+            }
+        ]
+    },
+    "102": {
+        "sub_type": 1,
+        "name": "秘银纹章 附身型",
+        "result_list": [
+            2002
+        ],
+        "material_list": [
+            1002
+        ],
+        "num": 6,
+        "cost_res": [
+            {
+                "1": 10000
+            }
+        ]
+    },
+    "103": {
+        "sub_type": 1,
+        "name": "秘银纹章 替身型",
+        "result_list": [
+            2003
+        ],
+        "material_list": [
+            1003
+        ],
+        "num": 6,
+        "cost_res": [
+            {
+                "1": 10000
+            }
+        ]
+    },
+    "104": {
+        "sub_type": 1,
+        "name": "秘银纹章 化身型",
+        "result_list": [
+            2004
+        ],
+        "material_list": [
+            1004
+        ],
+        "num": 6,
+        "cost_res": [
+            {
+                "1": 10000
+            }
+        ]
+    },
+    "105": {
+        "sub_type": 1,
+        "name": "随机秘银纹章",
+        "result_list": [
+            2001,
+            2002,
+            2003,
+            2004
+        ],
+        "material_list": [
+            1001,
+            1002,
+            1003,
+            1004
+        ],
+        "num": 5,
+        "cost_res": [
+            {
+                "1": 10000
+            }
+        ]
+    },
+    "201": {
+        "sub_type": 2,
+        "name": "闪耀纹章 通用型",
+        "result_list": [
+            3001
+        ],
+        "material_list": [
+            2001
+        ],
+        "num": 8,
+        "cost_res": [
+            {
+                "1": 50000
+            }
+        ]
+    },
+    "202": {
+        "sub_type": 2,
+        "name": "闪耀纹章 附身型",
+        "result_list": [
+            3002
+        ],
+        "material_list": [
+            2002
+        ],
+        "num": 7,
+        "cost_res": [
+            {
+                "1": 50000
+            }
+        ]
+    },
+    "203": {
+        "sub_type": 2,
+        "name": "闪耀纹章 替身型",
+        "result_list": [
+            3003
+        ],
+        "material_list": [
+            2003
+        ],
+        "num": 7,
+        "cost_res": [
+            {
+                "1": 50000
+            }
+        ]
+    },
+    "204": {
+        "sub_type": 2,
+        "name": "闪耀纹章 化身型",
+        "result_list": [
+            3004
+        ],
+        "material_list": [
+            2004
+        ],
+        "num": 7,
+        "cost_res": [
+            {
+                "1": 50000
+            }
+        ]
+    },
+    "205": {
+        "sub_type": 2,
+        "name": "随机闪耀纹章",
+        "result_list": [
+            3001,
+            3002,
+            3003,
+            3004
+        ],
+        "material_list": [
+            2001,
+            2002,
+            2003,
+            2004
+        ],
+        "num": 6,
+        "cost_res": [
+            {
+                "1": 50000
+            }
+        ]
+    },
+    "301": {
+        "sub_type": 3,
+        "name": "神圣纹章 通用型",
+        "result_list": [
+            4001
+        ],
+        "material_list": [
+            3001
+        ],
+        "num": 9,
+        "cost_res": [
+            {
+                "1": 100000
+            }
+        ]
+    },
+    "302": {
+        "sub_type": 3,
+        "name": "神圣纹章 附身型",
+        "result_list": [
+            4002
+        ],
+        "material_list": [
+            3002
+        ],
+        "num": 8,
+        "cost_res": [
+            {
+                "1": 100000
+            }
+        ]
+    },
+    "303": {
+        "sub_type": 3,
+        "name": "神圣纹章 替身型",
+        "result_list": [
+            4003
+        ],
+        "material_list": [
+            3003
+        ],
+        "num": 8,
+        "cost_res": [
+            {
+                "1": 100000
+            }
+        ]
+    },
+    "304": {
+        "sub_type": 3,
+        "name": "神圣纹章 化身型",
+        "result_list": [
+            4004
+        ],
+        "material_list": [
+            3004
+        ],
+        "num": 8,
+        "cost_res": [
+            {
+                "1": 100000
+            }
+        ]
+    },
+    "305": {
+        "sub_type": 3,
+        "name": "随机神圣纹章",
+        "result_list": [
+            4001,
+            4002,
+            4003,
+            4004
+        ],
+        "material_list": [
+            3001,
+            3002,
+            3003,
+            3004,
+            3005
+        ],
+        "num": 7,
+        "cost_res": [
+            {
+                "1": 100000
+            }
+        ]
+    }
+}
